@@ -1,4 +1,41 @@
 <big><pre>
+📜 [.eslintrc.js](./.eslintrc.js) 
+📄 [.gitignore](./.gitignore) 
+📂 [LICENSE](./LICENSE) 
+📄 [README.md](./README.md) 
+📄 [package-lock.json](./package-lock.json) 
+📄 [package.json](./package.json) 
+📂 [public](./public)            # Supplemental assets or resources, or static files
+├── 📄 [favicon.ico](./public/favicon.ico) 
+├── 📄 [index.html](./public/index.html) 
+📂 [src](./src)               # Source files
+├── 📄 [App.tsx](./src/App.tsx) 
+├── 📂 [components](./src/components) 
+│   ├── 📄 [BadgesSection.tsx](./src/components/BadgesSection.tsx) 
+│   ├── 📄 [MarkdownDisplay.tsx](./src/components/MarkdownDisplay.tsx) 
+│   ├── 📄 [MarkdownDisplayLine.tsx](./src/components/MarkdownDisplayLine.tsx) 
+│   ├── 📄 [URLBox.tsx](./src/components/URLBox.tsx) 
+│   ├── 📂 [reusable](./src/components/reusable) 
+│   │   ├── 📄 [Card.tsx](./src/components/reusable/Card.tsx) 
+│   │   ├── 📄 [CenteredCol.tsx](./src/components/reusable/CenteredCol.tsx) 
+│   │   ├── 📄 [CustomButton.tsx](./src/components/reusable/CustomButton.tsx) 
+│   │   ├── 📄 [CustomSecondaryButton.tsx](./src/components/reusable/CustomSecondaryButton.tsx) 
+│   │   ├── 📄 [Input.tsx](./src/components/reusable/Input.tsx) 
+├── 📂 [images](./src/images) 
+│   ├── 📄 [Demo.gif](./src/images/Demo.gif) 
+├── 📄 [index.css](./src/index.css) 
+├── 📄 [index.tsx](./src/index.tsx) 
+├── 📜 [react-app-env.d.ts](./src/react-app-env.d.ts) 
+├── 📂 [tree](./src/tree) 
+│   ├── 📄 [constants.ts](./src/tree/constants.ts) 
+│   ├── 📄 [index.ts](./src/tree/index.ts) 
+│   ├── 📄 [types.ts](./src/tree/types.ts) 
+├── 📂 [utils](./src/utils) 
+│   ├── 📄 [repoToBadge.ts](./src/utils/repoToBadge.ts) 
+📄 [tsconfig.json](./tsconfig.json) 
+</pre></big>
+
+<big><pre>
 📂 [public](./public) # Supplemental assets or resources, or static files
 📂 [src](./src) # Source files
 ├── 📂 [components](./src/components) 
