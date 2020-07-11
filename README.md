@@ -9,12 +9,12 @@
 </pre></big>
 
 <big><pre>
-📜 [.eslintrc.js](./.eslintrc.js)       
-📄 [.gitignore](./.gitignore)         
-📂 [LICENSE](./LICENSE)            
-📄 [README.md](./README.md)          
-📄 [package-lock.json](./package-lock.json)  
-📄 [package.json](./package.json)       
+📜 [.eslintrc.js](./.eslintrc.js)
+📄 [.gitignore](./.gitignore)
+📂 [LICENSE](./LICENSE)
+📄 [README.md](./README.md)
+📄 [package-lock.json](./package-lock.json)
+📄 [package.json](./package.json)
 📂 [public](./public)             # Supplemental assets or resources, or static files
 ├── 📄 [favicon.ico](./public/favicon.ico)  
 ├── 📄 [index.html](./public/index.html)   
@@ -41,8 +41,8 @@
 │   ├── 📄 [index.ts](./src/tree/index.ts)
 │   ├── 📄 [types.ts](./src/tree/types.ts)
 ├── 📂 [utils](./src/utils)               
-│   ├── 📄 [SelectRootCoresTest.ts](./src/utils/SelectRootCoresTest.ts)                  
-│   ├── 📄 [Switch.tsx](./src/utils/Switch.tsx)                              
+│   ├── 📄 [SelectRootCoresTest.ts](./src/utils/SelectRootCoresTest.ts)                 
+│   ├── 📄 [Switch.tsx](./src/utils/Switch.tsx)      
 │   ├── 📄 [deleteFileFromPath.ts](./src/utils/deleteFileFromPath.ts)                   
 │   ├── 📄 [deleteFileFromPathTest.ts](./src/utils/deleteFileFromPathTest.ts)               
 │   ├── 📄 [filterChange.ts](./src/utils/filterChange.ts)                         
