@@ -55,9 +55,9 @@
 │   ├── 📄 [selectFoldersOnlyTest.ts](./src/utils/selectFoldersOnlyTest.ts)                
 │   ├── 📄 [selectRootCores.ts](./src/utils/selectRootCores.ts)                      
 │   ├── 📄 [setCommentForPath.ts](./src/utils/setCommentForPath.ts)                    
-│   ├── 📄 [setCommentForPathtest.ts](./src/utils/setCommentForPathtest.ts)                
-│   ├── 📄 [undoDeletions.ts](./src/utils/undoDeletions.ts)                        
-│   ├── 📄 [undoDeletionsTest.ts](./src/utils/undoDeletionsTest.ts)                    
+│   ├── 📄 [setCommentForPathtest.ts](./src/utils/setCommentForPathtest.ts) 
+│   ├── 📄 [undoDeletions.ts](./src/utils/undoDeletions.ts)
+│   ├── 📄 [undoDeletionsTest.ts](./src/utils/undoDeletionsTest.ts)
 📄 [tsconfig.json](./tsconfig.json)      
 </pre></big>
 
