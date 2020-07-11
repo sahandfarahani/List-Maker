@@ -1,4 +1,14 @@
 <big><pre>
+📂 [public](./public) # Supplemental assets or resources, or static files
+📂 [src](./src) # Source files
+├── 📂 [components](./src/components) 
+│   ├── 📂 [reusable](./src/components/reusable) 
+├── 📂 [images](./src/images) 
+├── 📂 [tree](./src/tree) 
+├── 📂 [utils](./src/utils) 
+</pre></big>
+
+<big><pre>
 📜 [.eslintrc.js](./.eslintrc.js)       
 📄 [.gitignore](./.gitignore)         
 📂 [LICENSE](./LICENSE)            
