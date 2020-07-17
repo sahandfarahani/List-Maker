@@ -1,7 +1,9 @@
 <big><pre>
-📄 [.github](./.github)# Markdown files that GitHub looks for, like changelogs and issue templates
-📂 [public](./public) # Supplemental assets or resources, or static files
-📂 [src](./src)    # Source files
+📄 [.github](./.github)      # Markdown files that GitHub looks for, like changelogs and issue templates and more
+├── 📄 [workflows](./.github/workflows)
+│   ├── 📜 [pythonpackage.yml](./.github/workflows/pythonpackage.yml) # Here we Go Again
+📄 [Listmaker.py](./Listmaker.py)
+📄 [README.md](./README.md)
 </pre></big>
 
 # List-Maker
