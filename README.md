@@ -2,6 +2,7 @@
   type="text/css">
 div {overflow:auto;
 overflow-wrap=initial;
+color:red;
 }
 </style>
 
