@@ -1,13 +1,16 @@
-@Preview{ This built-in comment has priority over the default one  }
-
 <big><pre>
-📂 [.github](./.github)      # This is a Default Markdownoooo
-├── 📂 [workflows](./.github/workflows) 
-│   ├── 📄 [pythonpackage.yml](./.github/workflows/pythonpackage.yml) # new
-📂 [2020.dir](./2020.dir) 
-├── 📄 [abc.txt](./2020.dir/abc.txt) 
-📄 [Listmaker.py](./Listmaker.py) 
-📄 [README.md](./README.md)     # This is a Default Comment!
+<details style="padding-left: 0px"> <summary>📂 [.github](./.github)      # This is a Default Markdownoooo</summary>
+          
+<details style="padding-left: 16px"> <summary>📂 [workflows](./.github/workflows) </summary>
+          
+📄 [pythonpackage.yml](./.github/workflows/pythonpackage.yml) # new</details></details>
+              
+<details style="padding-left: 0px"> <summary>📂 [2020.dir](./2020.dir) </summary>
+          
+📄 [abc.txt](./2020.dir/abc.txt) </details>
+              
+📄 [Listmaker.py](./Listmaker.py) <br/>
+📄 [README.md](./README.md)    # This is a Default Comment!<br/>
 </pre></big>
 
 # List-Maker
