@@ -1,8 +1,8 @@
 <style
   type="text/css">
 div {overflow:auto;
-overflow-wrap=initial;
-color:red;
+overflow-wrap:initial;
+color:"red";
 }
 </style>
 
