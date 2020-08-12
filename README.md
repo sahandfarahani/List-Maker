@@ -1,12 +1,6 @@
-<style
-  type="text/css">
-div {overflow:auto;
-overflow-wrap:initial;
-color:"red";
-}
-</style>
+<style>div{color:red;}</style>
 
-<style="color=red";><div overflow="auto" overflow-wrap="initial">
+<div>
 <details style="padding-left: 0px"> <summary>📂 <a href="./.github">.github</a>      # This is a Default Markdownooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</summary><blockquote>
 <details style="opacity:1"> <summary>📂 <a href="./.github/workflows">workflows </summary><blockquote>
 📄 <a href="./.github/workflows/pythonpackage.yml">pythonpackage.yml</a> # new</details></details>
