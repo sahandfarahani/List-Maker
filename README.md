@@ -1,5 +1,5 @@
 <big><pre>
-<details style="padding-left: 0px"> <summary>📂 <a href="./.github">[.github](./.github)</a>      # This is a Default Markdownoooo</summary>
+<details style="padding-left: 0px"> <summary>📂 <a href="./.github">.github</a>      # This is a Default Markdownoooo</summary>
           
 <details style="padding-left: 16px"> <summary>📂 [workflows](./.github/workflows) </summary><blockquote>
           
