@@ -1,5 +1,11 @@
 
+<style
+  type="text/css">
+h1 {color:red;}
 
+p {color:blue;}
+</style>
+okay
 <style>div{color:red;}<div>
 <details style="padding-left: 0px"> <summary>📂 <a href="./.github">.github</a>      # This is a Default Markdownooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</summary><blockquote>
 <details style="opacity:1"> <summary>📂 <a href="./.github/workflows">workflows </summary><blockquote>
