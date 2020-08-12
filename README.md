@@ -3,7 +3,7 @@
 📄 <a href="./.github/workflows/pythonpackage.yml">pythonpackage.yml</a> # new</details></details>
 📄 <a href="./Listmaker.py">Listmaker.py</a> <br/>
             
-<pre>
+<big>
 <details style="padding-left: 0px"> <summary>📂 [.github](./.github)      # This is a Default Markdownoooo</summary>
           
 <details style="padding-left: 16px"> <summary>📂 [workflows](./.github/workflows) </summary>
@@ -16,7 +16,7 @@
               
 📄 [Listmaker.py](./Listmaker.py) <br/>
 📄 [README.md](./README.md)    # This is a Default Comment!<br/>
-</pre>
+</big>
 
 # List-Maker
 This is a python program I wrote
