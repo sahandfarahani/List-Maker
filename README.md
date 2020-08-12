@@ -1,9 +1,11 @@
 <big><pre>
-<details style="padding-left: 0px"> <summary>📂 <a href='[.github](./.github)'>.github</a>      # This is a Default Markdownoooo</summary><blockquote>
-<details style="padding-left: 16px"> <summary>📂 [workflows](./.github/workflows) </summary><blockquote>
-📄 [pythonpackage.yml](./.github/workflows/pythonpackage.yml) # new</blockquote></details></blockquote></details>
+<details style="padding-left: 0px"> <summary>📂 [.github](./.github)      # This is a Default Markdownoooo</summary>
+          
+<details style="padding-left: 16px"> <summary>📂 [workflows](./.github/workflows) </summary>
+          
+📄 [pythonpackage.yml](./.github/workflows/pythonpackage.yml) # new</details></details>
               
-<details style="padding-left: 0px"> <summary>📂 [2020.dir](./2020.dir) </summary><blockquote>
+<details style="padding-left: 0px"> <summary>📂 [2020.dir](./2020.dir) </summary>
           
 📄 [abc.txt](./2020.dir/abc.txt) </details>
               
