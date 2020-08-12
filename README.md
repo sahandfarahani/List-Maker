@@ -18,16 +18,12 @@
 :page_facing_up: [README.md](./README.md)    # This is a Default Comment!<br/>
 </pre></big>
 
-<big><pre>
-<details style="padding-left: 0px">
-<summary>📂 <a href="./.github">.github</a>      # This is a Default Markdownoooo</summary><blockquote>
-          
+<details style="padding-left: 0px"><summary>📂 <a href="./.github">.github</a>      # This is a Default Markdownoooo</summary><blockquote>
 <details style="padding-left: 16px">
 <summary>📂 <a href=./.github/workflows">workflows</a> </summary><blockquote>
           
 <a href="./.github/workflows/pythonpackage.yml">📄 [pythonpackage.yml]</a> # new</details></details>
             
-</pre></big>
 
 # List-Maker
 This is a python program I wrote
