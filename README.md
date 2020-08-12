@@ -1,4 +1,10 @@
-<p style="color:"red"">test</p>
+<style
+  type="text/css">
+div {overflow:auto;
+overflow-wrap=initial;
+}
+</style>
+
 <div overflow="auto" overflow-wrap="initial">
 <details style="padding-left: 0px"> <summary>📂 <a href="./.github">.github</a>      # This is a Default Markdownooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo</summary><blockquote>
 <details style="opacity:1"> <summary>📂 <a href="./.github/workflows">workflows </summary><blockquote>
