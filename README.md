@@ -1,9 +1,9 @@
-&lts;style
+&lt;style
   type="text/css">
 h1 {color:red;}
 
 p {color:blue;}
-&lts;/style>
+&lt;/style>
 <p>okay</p>
 
 <style
