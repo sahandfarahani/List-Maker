@@ -3,7 +3,7 @@
 h1 {color:red;}
 
 p {color:blue;}
-&lt;/style>
+</style>
 <p>okay</p>
 
 <style
