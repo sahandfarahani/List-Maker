@@ -1,6 +1,5 @@
 <big><pre>
-<details> <summary>📂 [.github](./.github)           # Markdown files that GitHub looks for, like changelogs and issue templates
-</summary><blockquote>📄 [FUNDING.yml](./.github/FUNDING.yml) </details>
+<details><summary>📂 [.github](./.github)           # Markdown files that GitHub looks for, like changelogs and issue templates
 </pre></big>
 
 <big><pre>
