@@ -1,4 +1,7 @@
-<span style='color:blue'>blue</span>
+<big><pre>
+<details> <summary>📂 [.github](./.github)           # Markdown files that GitHub looks for, like changelogs and issue templates
+</summary> <blockquote>📄 [FUNDING.yml](./.github/FUNDING.yml) </details>
+</pre></big>
 
 <big><pre>
 <details><summary>📂 [.github](./.github)      # This is a Default Markdownoooo
