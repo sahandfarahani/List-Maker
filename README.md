@@ -1,7 +1,6 @@
 <big><pre>
 <details><summary>📂 [.github](./.github)      # This is a Default Markdownoooo
 </summary><blockquote><details><summary>📂 [workflows](./.github/workflows)
-</summary><blockquote>📄 [pythonpackage.yml](./.github/workflows/pythonpackage.yml) # new </blockquote></details></blockquote></details>
 
 <details><summary>📂 [2020.dir](./2020.dir) 
 </summary><blockquote>📄 [abc.txt](./2020.dir/abc.txt) </details>
