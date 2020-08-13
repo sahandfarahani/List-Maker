@@ -1,8 +1,4 @@
 <big><pre>
-<details><summary>📂 [.github](./.github)           # Markdown files that GitHub looks for, like changelogs and issue templates
-</pre></big>
-
-<big><pre>
 <details><summary>📂 [.github](./.github)      # This is a Default Markdownoooo
 </summary><blockquote><details><summary>📂 [workflows](./.github/workflows)
 </summary><blockquote>📄 [pythonpackage.yml](./.github/workflows/pythonpackage.yml) # new </blockquote></details></blockquote></details>
