@@ -1,4 +1,8 @@
 @Preview{ KOMMENT }
+<details><summary>This isnt a deletion</summary><blockquote>
+<a href="delete this">this will be deleted</a>
+</blockquote></details>
+
 <big><pre>
 <details><summary>📂 [.github](./.github)      # This is a Default Markdownoooo
 </summary><blockquote><details><summary>📂 [workflows](./.github/workflows)
