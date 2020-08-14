@@ -1,5 +1,11 @@
 @Preview{ KOMMENT }
 <big><pre>
+📂 <a href="./.github">.github</a>      # This is a Default Markdownoooo
+📂 <a href="./2020.dir">2020.dir</a> 
+📄 <a href="./Listmaker.py">Listmaker.py</a> 
+📄 <a href="./README.md">README.md</a>    # This is a Default Comment!
+</pre></big>
+<big><pre>
 <details><summary>📂 <a href="./.github">.github</a>      # This is a Default Markdownoooo
 <details><summary>📂 <a href="./.github/workflows">workflows</a> 
 </summary><blockquote>📄 <a href="./.github/workflows/pythonpackage.yml">pythonpackage.yml</a> </blockquote></details></blockquote></details>
