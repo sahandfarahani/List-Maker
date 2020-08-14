@@ -1,6 +1,6 @@
 @Preview{ KOMMENT }
 <big><pre>
-<details><summary>📂 <a href="./.github">.github</a>      <span># This is a Default Markdownoooo</span>
+<details><summary>📂 <a href="./.github">.github</a>   # This is a Default Markdownoooo
 <details><summary>📂 <a href="./.github/workflows">workflows</a> <span></span>
 </summary><blockquote>📄 <a href="./.github/workflows/pythonpackage.yml">pythonpackage.yml</a> </blockquote></details></blockquote></details>
 
