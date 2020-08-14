@@ -1,4 +1,15 @@
 @Preview{ KOMMENT }
+<big><pre>
+<details><summary>📂 <a href="./.github">.github</a>      # This is a Default Markdownoooo
+<details><summary>📂 <a href="./.github/workflows">workflows</a> 
+</summary><blockquote>📄 <a href="./.github/workflows/pythonpackage.yml">pythonpackage.yml</a> </blockquote></details></blockquote></details>
+
+<details><summary>📂 <a href="./2020.dir">2020.dir</a> 
+</summary><blockquote>📄 <a href="./2020.dir/abc.txt">abc.txt</a> </blockquote></details>
+
+📄 <a href="./Listmaker.py">Listmaker.py</a> 
+📄 <a href="./README.md">README.md</a>    # This is a Default Comment!
+</pre></big>
 
 <details><summary>This isnt a deletion</summary><blockquote>
 <a href="delete this">this will be deleted</a>
