@@ -1,4 +1,16 @@
 @Preview{ KOMMENT }
+<details>
+<summary>Heading1</summary>
+some text
+<details>
+<summary>Heading1.1</summary>
+some more text
+<details>
+<summary>Heading1.1.1</summary>
+ even more text
+</details>
+</details>
+</details>
 
   <big><pre-wrap>
 <details><summary style="color:red;">📂 <a href="./.github">.github</a>      <span># zoom gracityyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy</span>
