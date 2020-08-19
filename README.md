@@ -4,7 +4,7 @@
 <big><pre>
 📜 <a href="./.eslintrc.js">.eslintrc.js</a> 
 <details><summary>📂 <a href="./.github">.github</a></summary>
-<blockquote>📄 <a href="./.github/FUNDING.yml">FUNDING.yml</a> </blockquote></details>
+<blockquote>📄<a href="./.github/FUNDING.yml">FUNDING.yml</a></blockquote></details>
 
 📜 <a href="https://git-scm.com/docs/gitignore">ℹ️</a><a href="./.gitignore">.gitignore</a> 
 📄 <a href="./LICENSE">LICENSE</a> 
