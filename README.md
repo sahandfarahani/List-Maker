@@ -1,4 +1,5 @@
 @Preview{ KOMMENT }
+<big>
 <details>
 <summary>Heading1</summary>
 some text
@@ -11,7 +12,31 @@ some more text
 </details>
 </details>
 </details>
-~~~
+ <details>
+<summary>Heading1</summary>
+some text
+<details>
+<summary>Heading1.1</summary>
+some more text
+<details>
+<summary>Heading1.1.1</summary>
+ even more text
+</details>
+</details>
+</details>
+ <details>
+<summary>Heading1</summary>
+some text
+<details>
+<summary>Heading1.1</summary>
+some more text
+<details>
+<summary>Heading1.1.1</summary>
+ even more text
+</details>
+</details>
+</details>
+</big>
   <big>
 <details><summary style="color:red;">📂 <a href="./.github">.github</a>      <span># zoom gracityyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy</span>
 </summary><blockquote><details><summary>📂 <a href="./.github/workflows">workflows</a> 
@@ -24,7 +49,7 @@ some more text
 📄 <a href="https://guides.cocoapods.org/using/the-podfile.html">ℹ️</a> <a href="./Podfile">Podfile</a> 
 📄 <a href="./README.md">README.md</a>    <span> # KOMMENT</span>
 </big>
-~~~
+
 # List-Maker
 
 This is a python program I wrote
