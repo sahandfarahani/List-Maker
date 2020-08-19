@@ -16,10 +16,10 @@
 
 <pre>
 lol
-
-<details><summary> summmmm </summary> <blockquote><details><summary> summmmm </summary>  lol </details></blockquote></details></details><details><summary>loddddl</summary>k</details>&nbsp;&nbsp;***_eded_***
+<details><summary> summmmm </summary>
+<blockquote><details><summary> summmmm </summary>  
+lol </details></blockquote></details></details><details><sumamry>loddddl</summary>k</details>&nbsp;&nbsp;***_eded_***
 </pre>
-
 
 
 # List-Maker
