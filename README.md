@@ -1,6 +1,6 @@
 @Preview{ KOMMENT }
 
-<big><marquee>
+<big><pre>
 <details><summary>📂 <a href="./.github">.github</a>      <span># zoom gracityyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy</span>
 </summary><blockquote><details><summary>📂 <a href="./.github/workflows">workflows</a> 
 </summary><blockquote>📄 <a href="./.github/workflows/pythonpackage.yml">pythonpackage.yml</a> </blockquote></details></blockquote></details>
@@ -11,7 +11,7 @@
 📄 <a href="./Listmaker.py">Listmaker.py</a> 
 📄 <a href="https://guides.cocoapods.org/using/the-podfile.html">ℹ️</a> <a href="./Podfile">Podfile</a> 
 📄 <a href="./README.md">README.md</a>    <span> # KOMMENT</span>
-</pre></marquee>
+</pre></big>
 
 # List-Maker
 
