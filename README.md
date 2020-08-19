@@ -11,8 +11,8 @@ some more text
 </details>
 </details>
 </details>
-
-  <big><pre-wrap>
+~~~
+  <big>
 <details><summary style="color:red;">📂 <a href="./.github">.github</a>      <span># zoom gracityyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy</span>
 </summary><blockquote><details><summary>📂 <a href="./.github/workflows">workflows</a> 
 </summary><blockquote>📄 <a href="./.github/workflows/pythonpackage.yml">pythonpackage.yml</a> </blockquote></details></blockquote></details>
@@ -23,8 +23,8 @@ some more text
 📄 <a href="./Listmaker.py">Listmaker.py</a> 
 📄 <a href="https://guides.cocoapods.org/using/the-podfile.html">ℹ️</a> <a href="./Podfile">Podfile</a> 
 📄 <a href="./README.md">README.md</a>    <span> # KOMMENT</span>
-</pre-wrap></big>
-
+</big>
+~~~
 # List-Maker
 
 This is a python program I wrote
