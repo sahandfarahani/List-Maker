@@ -1,5 +1,6 @@
 @Preview{ KOMMENT }
-<big>
+
+<pre>
 <details>
 <summary>Heading1</summary>
 some text
@@ -12,7 +13,7 @@ some more text
 </details>
 </details>
 </details>
- <details>
+<details>
 <summary>Heading1</summary>
 some text
 <details>
@@ -24,7 +25,7 @@ some more text
 </details>
 </details>
 </details>
- <details>
+<details>
 <summary>Heading1</summary>
 some text
 <details>
@@ -36,9 +37,9 @@ some more text
 </details>
 </details>
 </details>
-</big>
+</pre>
   <big>
-<details><summary style="color:red;">📂 <a href="./.github">.github</a>      <span># zoom gracityyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy</span>
+<details><summary>📂 <a href="./.github">.github</a>      <span># zoom gracityyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy</span>
 </summary><blockquote><details><summary>📂 <a href="./.github/workflows">workflows</a> 
 </summary><blockquote>📄 <a href="./.github/workflows/pythonpackage.yml">pythonpackage.yml</a> </blockquote></details></blockquote></details>
 
