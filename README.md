@@ -16,7 +16,9 @@
 
 <pre>
 lol
-<details><summary> summmmm </summary> <details><summary> summmmm </summary></details></details></details><details><sumamry>loddddl</summary>k</details>&nbsp;&nbsp;***_eded_***
+
+<details><summary> summmmm </summary> <details><summary> summmmm </summary></details></details></details><details>
+  <summary>loddddl</summary>k</details>&nbsp;&nbsp;***_eded_***
 </pre>
 
 
