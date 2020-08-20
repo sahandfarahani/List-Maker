@@ -1,9 +1,9 @@
 @Preview{ KOMMENT }
 <big><pre>
-<summary>📜 <a href="https://eslint.org/">ℹ️</a> <a href="./.eslintrc.js">.eslintrc.js</a></summary><br />
+<summary>📜 <a href="https://eslint.org/">ℹ️</a> <a href="./.eslintrc.js">.eslintrc.js</a></summary>
 <details><summary>📂 <a href="./.github">.github</a> </summary>
 <blockquote>📄 <a href="./.github/FUNDING.yml">FUNDING.yml</a> <br /></blockquote></details>📜 <a href="https://git-scm.com/docs/gitignore">ℹ️</a> <a href="./.gitignore">.gitignore</a> <br />
-📄 <a href="./LICENSE">LICENSE</a> <br />
+<summary>📄 <a href="./LICENSE">LICENSE</a> <br /></summary>
 📄 <a href="./README.md">README.md</a> <br />
 📄 <a href="https://docs.npmjs.com/configuring-npm/package-lock-json.html">ℹ️</a> <a href="./package-lock.json">package-lock.json</a> <br />
 📄 <a href="https://docs.npmjs.com/files/package.json">ℹ️</a> <a href="./package.json">package.json</a> <br />
