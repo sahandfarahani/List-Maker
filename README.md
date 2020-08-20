@@ -1,13 +1,6 @@
 @Preview{ KOMMENT }
 <big><pre>
-<details><summary>📂 <a href="./.github">.github</a>      <span># zoom gracity</span></summary>
-<blockquote><details><summary>📂 <a href="./.github/workflows">workflows</a> </summary>
-<blockquote>📄 <a href="./.github/workflows/pythonpackage.yml">pythonpackage.yml</a></blockquote></details></blockquote></details>
-<details><summary>📂 <a href="./2020.dir">2020.dir</a> </summary>
-<blockquote>📄 <a href="./2020.dir/abc.txt">abc.txt</a> </blockquote></details>
-📄 <a href="./Listmaker.py">Listmaker.py</a> <br />
-📄 <a href="https://guides.cocoapods.org/using/the-podfile.html">ℹ️</a> <a href="./Podfile">Podfile</a> <br />
-📄 <a href="./README.md">README.md</a>    <span> # KOMMENT</span><br />
+<details><summary>📂 <a href="./.github">.github</a>      <span># zoom gracity</span></summary><br /><blockquote><details><summary>📂 <a href="./.github/workflows">workflows</a> </summary><br /><blockquote>📄 <a href="./.github/workflows/pythonpackage.yml">pythonpackage.yml</a> </blockquote></details></blockquote></details><br /><details><summary>📂 <a href="./2020.dir">2020.dir</a> </summary><br /><blockquote>📄 <a href="./2020.dir/abc.txt">abc.txt</a> </blockquote></details><br />📄 <a href="./Listmaker.py">Listmaker.py</a> <br /><br />📄 <a href="https://guides.cocoapods.org/using/the-podfile.html">ℹ️</a> <a href="./Podfile">Podfile</a> <br /><br />📄 <a href="./README.md">README.md</a>    <span> # KOMMENT</span><br />
 </pre></big>
 <big><pre>
 <details><summary>📂 <a href="./.github">.github</a>      <span># zoom gracity</span></summary>
