@@ -1,6 +1,8 @@
 @Preview{ KOMMENT }
 <big><pre>
-📜 <a href="https://eslint.org/">ℹ️</a> <a href="./.eslintrc.js">.eslintrc.js</a><details><summary>📂 <a href="./.github">.github</a> </summary><blockquote>📄 <a href="./.github/FUNDING.yml">FUNDING.yml</a> <br /></blockquote></details>📜 <a href="https://git-scm.com/docs/gitignore">ℹ️</a> <a href="./.gitignore">.gitignore</a> <br />
+📜 <a href="https://eslint.org/">ℹ️</a> <a href="./.eslintrc.js">.eslintrc.js</a> <br />
+<details><summary>📂 <a href="./.github">.github</a> </summary>
+<blockquote>📄 <a href="./.github/FUNDING.yml">FUNDING.yml</a> <br /></blockquote></details>📜 <a href="https://git-scm.com/docs/gitignore">ℹ️</a> <a href="./.gitignore">.gitignore</a> <br />
 📄 <a href="./LICENSE">LICENSE</a> <br />
 📄 <a href="./README.md">README.md</a> <br />
 📄 <a href="https://docs.npmjs.com/configuring-npm/package-lock-json.html">ℹ️</a> <a href="./package-lock.json">package-lock.json</a> <br />
@@ -77,8 +79,6 @@ const END_OF_FILE_COMMENT_PATTERN =</span><br />
 <blockquote>📄 <a href="./src/utils/undoDeletions/undoDeletions.ts">undoDeletions.ts</a> <br />
 📄 <a href="./src/utils/undoDeletions/undoDeletionsTest.ts">undoDeletionsTest.ts</a> <br /></blockquote></details></blockquote></details></blockquote></details>📄 <a href="https://www.typescriptlang.org/">ℹ️</a> <a href="./tsconfig.json">tsconfig.json</a> <br />
 </pre></big>
-
-
 
 
 
