@@ -1,6 +1,6 @@
 @Preview{ KOMMENT }
 <big><pre>
-📜 <a href="https://eslint.org/">ℹ️</a> <a href="./.eslintrc.js">.eslintrc.js</a> <br />
+<details>📜 <a href="https://eslint.org/">ℹ️</a> <a href="./.eslintrc.js">.eslintrc.js</a> <br /></details>
 <details><summary>📂 <a href="./.github">.github</a> </summary>
 <blockquote>📄 <a href="./.github/FUNDING.yml">FUNDING.yml</a> <br /></blockquote></details>📜 <a href="https://git-scm.com/docs/gitignore">ℹ️</a> <a href="./.gitignore">.gitignore</a> <br />
 📄 <a href="./LICENSE">LICENSE</a> <br />
