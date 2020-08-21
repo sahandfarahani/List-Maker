@@ -1,4 +1,5 @@
 @Preview{ KOMMENT }
+@Pre{ NEW COMMENT }
 <big><pre><summary>📜 <a href="https://eslint.org/">ℹ️</a> <a href="./.eslintrc.js">.eslintrc.js</a> </summary>
 <details><summary>📂 <a href="./.github">.github</a> </summary>
 <blockquote>📄 <a href="./.github/FUNDING.yml">FUNDING.yml</a> <br /></blockquote></details><summary>📜 <a href="https://git-scm.com/docs/gitignore">ℹ️</a> <a href="./.gitignore">.gitignore</a> </summary>
