@@ -1,5 +1,5 @@
   {
     "CollapsibleFolder":true,
     "RegexKeyword":"Pre",
-    "Filter":"NULL"
+    "Filter":"ROOT_ONLY"
     }
