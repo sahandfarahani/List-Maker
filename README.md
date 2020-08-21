@@ -1,5 +1,17 @@
 @Preview{ KOMMENT }
 @Pre{ NEW COMMENT }
+<big><pre>
+<><summary>📂 <a href="./.github">.github</a> </summary>
+<blockquote><><summary>📂 <a href="./.github/workflows">workflows</a> </summary>
+<blockquote>📄 <a href="./.github/workflows/pythonpackage.yml">pythonpackage.yml</a> <br /></blockquote></></blockquote></>
+<><summary>📂 <a href="./2020.dir">2020.dir</a> </summary>
+<blockquote>📄 <a href="./2020.dir/abc.txt">abc.txt</a> <br /></blockquote></>
+<summary>📄 <a href="./Listmaker.py">Listmaker.py</a> </summary>
+<summary>📄 <a class="InfoLink" href="https://guides.cocoapods.org/using/the-podfile.html">ℹ️</a> <a href="./Podfile">Podfile</a> </summary>
+<summary>📜 <a href="./README.md">README.md</a>        <span> # NEW COMMENT</span></summary>
+<summary>📄 <a href="./readme.config.js">readme.config.js</a> </summary>
+</pre></big>
+
 <big><pre><summary>📜 <a href="https://eslint.org/">ℹ️</a> <a href="./.eslintrc.js">.eslintrc.js</a> </summary>
 <details><summary>📂 <a href="./.github">.github</a> </summary>
 <blockquote>📄 <a href="./.github/FUNDING.yml">FUNDING.yml</a> <br /></blockquote></details><summary>📜 <a href="https://git-scm.com/docs/gitignore">ℹ️</a> <a href="./.gitignore">.gitignore</a> </summary>
