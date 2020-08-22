@@ -2,5 +2,5 @@
     
     "CollapsibleFolder":false,
     "RegexKeyword":"Pre",
-    "Filter":"ROOT_ONLY"
+    "Filter":"ROOT_ONLYS"
   }
