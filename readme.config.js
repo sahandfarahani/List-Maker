@@ -2,5 +2,5 @@
     
     "CollapsibleFolder":false,
     "RegexKeyword":"Pre",
-    "Filter":"NULLINI"
+    "Filter":"ROOT_ONLY"
   }
