@@ -1,6 +1,6 @@
   { 
     
-    "CollapsibleFolder":false,
+    "CollapsibleFolder":dd,
     "RegexKeyword":"Pre",
-    "Filter":"SSS"
+    "Filter":"N"
   }
