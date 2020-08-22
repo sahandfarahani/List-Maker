@@ -1,6 +1,6 @@
   { 
     "Filter": "NULL",
     "CollapsibleFolder":false,
-    "RegexKeyword":"Pre",
+    "RegexKeyword":"Pre"
     
   }
