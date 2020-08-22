@@ -1,6 +1,5 @@
   { 
     
-    "CollapsibleFolder":false,
-    "Filter":"NULL"
+    "CollapsibleFolder":false
     
   }
