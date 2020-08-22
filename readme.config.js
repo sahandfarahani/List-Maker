@@ -1,5 +1,5 @@
   { 
-    "CollapsibleFolder":ffff,
-    "RegexKeyword":"Pre",
+    "CollapsibleFolder":true,
+    "RegexKeyword":"Prev",
     "Filter":"Buffon"
   }
