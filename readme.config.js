@@ -1,4 +1,5 @@
   { 
     "Filter":"ROY",
-    "CollapsibleFolder":falase
+    "CollapsibleFolder":falase,
+    "APPLICATION_NAME":"My APP"
   }
