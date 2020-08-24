@@ -9,10 +9,11 @@
   </tr>
   <tr>
     <td>SahandFarahani</td>
-    <td align="center"><img height='2px' src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;" height="100px;"/></td>
+       <td align="center"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;"/></td>
     <td>50</td>
   </tr>
   <tr>
+
     <td align="center"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;" alt=""/></td>
     <td>Jackson</td>
     <td>94</td>
