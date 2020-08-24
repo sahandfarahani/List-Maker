@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>SahandFarahani</td>
-    <td><img src="https://avatars0.githubusercontent.com/u/58839234?v=4"></img></td>
+    <td><img height='2px' src="https://avatars0.githubusercontent.com/u/58839234?v=4" width="100px;"></img></td>
     <td>50</td>
   </tr>
   <tr>
