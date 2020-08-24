@@ -13,7 +13,7 @@
     <td>50</td>
   </tr>
   <tr>
-    <td>Eve</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;" alt=""/></td>
     <td>Jackson</td>
     <td>94</td>
   </tr>
