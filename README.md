@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;" alt=""/><br /</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;" alt=""/></td>
 </table>
 
 <big><pre>
