@@ -9,10 +9,10 @@
   </tr>
   <tr>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;"/></td>
-  <td>Toronto</td>
   </tr>
   <tr>
         <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="50px;"/></td>
+  <td>Toronto</td>
 
   </tr>
   <tr>
