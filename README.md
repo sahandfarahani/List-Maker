@@ -5,14 +5,19 @@
   WithTwitterUsername: boolean; // Author's Twitter Username
   <table>
   <tr>
-    <th>Name</th>
+    <td>SahandFarahani</td>
+    <td>Toronto</td>
   </tr>
   <tr>
-    <th>Picture</th> 
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;"/></td>
   </tr>
   <tr>
-        <td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
+        <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="50px;"/></td>
 
+  </tr>
+  <tr>
+  <td>sahandafarahani@yahoo.com</td>
+        <td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
   </tr>
   </table>
   
