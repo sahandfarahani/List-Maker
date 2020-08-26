@@ -8,7 +8,12 @@
   <tr>
     <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;"/><br /><sub><b>SahandFarahani</b></sub></a><br /><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="10px;"/><sub>Toronto</sub><br /><sub>sahandafarahani@yahoo.com</sub></td>
   </tr>
+  <tr>
+    <td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
+  </tr>
   </table>
+  
+  
   <table>
   <tr>
     <td>SahandFarahani</td>
@@ -26,7 +31,6 @@
     </tr>
   </tr>
   <tr>
-
         <td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
   </tr>
   </table>
