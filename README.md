@@ -9,14 +9,10 @@
     <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;"/><br /><sub><b>SahandFarahani</b></sub></a> <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="15px;"/><br /><sub>Toronto</sub><br /><sub>sahandafarahani@yahoo.com</sub><br /><sub>Cheapreats</sub><br /><sub>repos:200</sub><br /><sub>Contributions:300</sub><br />
     </td><td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
   </tr>
-   <tr>
-    <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;"/><br /><sub><b>SahandFarahani</b></sub></a> <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="15px;"/><br /><sub>Toronto</sub><br /><sub>sahandafarahani@yahoo.com</sub><br /><sub>Cheapreats</sub><br /><sub>repos:200</sub><br /><sub>Contributions:300</sub><br />
-    </td>
-  </tr>
   <tr>
-    <td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
+    <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;"/><br /><sub><b>SahandFarahani</b></sub></a> <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="15px;"/><br /><sub>Toronto</sub><br /><sub>sahandafarahani@yahoo.com</sub><br /><sub>Cheapreats</sub><br /><sub>repos:200</sub><br /><sub>Contributions:300</sub><br />
+    </td><td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
   </tr>
- </tr>
   </table>
   
 <table>
