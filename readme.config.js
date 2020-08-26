@@ -4,5 +4,5 @@
     "APPLICATION_NAME":"My APP",
 "IOSStoreLink":"http://google.com",
   "GooglePlayLink":"http://yahoo.com",
-    "AuthorConfigs":"initialAuthorConfig":"WithPicture":false,
+    "AuthorConfigs":"AuthorConfig":"WithPicture":false,
   }
