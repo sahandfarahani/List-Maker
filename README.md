@@ -11,10 +11,10 @@
     <th>Email</th>
     <th>Location</th>
     <th>Organizations</th>
-    <th>Biography</th>
     <th>Contributions</th>
     <th>repos</th>
     <th>Twitter</th>
+    <th>Biography</th>
   </tr>
   <tr>
     <td>SahandFarahani</td>
@@ -22,10 +22,11 @@
     <td>sahandafarahani@yahoo.com</td>
     <td>Toronto</td>
     <td>Cheapreats</td>
-    <td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
     <td>300</td>
     <td>100</td>
     <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="100px;"/></td>
+    <td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
+
   </tr>
   <tr>
 
