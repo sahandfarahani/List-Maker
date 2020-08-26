@@ -3,6 +3,18 @@
 
   WithGithubLink: boolean; // Github url Link
   WithTwitterUsername: boolean; // Author's Twitter Username
+  <table>
+  <tr>
+    <th>Name</th>
+  </tr>
+  <tr>
+    <th>Picture</th> 
+  </tr>
+  <tr>
+        <td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
+
+  </tr>
+  </table>
   
 <table>
   <tr>
@@ -26,7 +38,6 @@
     <td>100</td>
     <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="100px;"/></td>
     <td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
-
   </tr>
   <tr>
 
