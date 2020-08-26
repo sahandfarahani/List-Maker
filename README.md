@@ -1,16 +1,31 @@
 @Preview{ KOMMENT }
 @Pre{ NEW COMMENT }
 
+  WithGithubLink: boolean; // Github url Link
+  WithTwitterUsername: boolean; // Author's Twitter Username
+  
 <table>
   <tr>
     <th>Name</th>
     <th>Picture</th> 
     <th>Email</th>
+    <th>Location</th>
+    <th>Organizations</th>
+    <th>Biography</th>
+    <th>Contributions</th>
+    <th>repos</th>
+    <th>Twitter</th>
   </tr>
   <tr>
     <td>SahandFarahani</td>
-       <td align="center"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;"/></td>
-    <td>50</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;"/></td>
+    <td>sahandafarahani@yahoo.com</td>
+    <td>Toronto</td>
+    <td>Cheapreats</td>
+    <td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
+    <td>300</td>
+    <td>100</td>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="100px;"/></td>
   </tr>
   <tr>
 
