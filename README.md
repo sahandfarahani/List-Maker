@@ -11,15 +11,16 @@
     <td align="center"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;"/></td>
   </tr>
   <tr>
-    <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="50px;"/></td>
     <tr>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="50px;"/></td>
+        <td>sahandafarahani@yahoo.com</td>
     <td>Toronto</td>
     <td>300</td>
     <td>100</td>
     </tr>
   </tr>
   <tr>
-  <td>sahandafarahani@yahoo.com</td>
+
         <td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
   </tr>
   </table>
