@@ -6,8 +6,8 @@
     "GooglePlayLink":"http://yahoo.com",
     "AuthorConfigs": {
                       "AuthorInfo":{
-                        "WithPicture":false
-                        "WithContributions":true
+                        "WithPicture":false,
+                        "WithContributions":,
                         "WithName":rr
                       }
                       "onlyOwner":true
