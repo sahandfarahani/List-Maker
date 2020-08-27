@@ -1,19 +1,43 @@
 @Preview{ KOMMENT }
 @Pre{ NEW COMMENT }
+Table of Contents
+=================
 
-  WithGithubLink: boolean; // Github url Link
-  WithTwitterUsername: boolean; // Author's Twitter Username
-  
-  <table>
-  <tr>
-    <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;"/><br /><sub><b>SahandFarahani</b></sub></a> <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="15px;"/><br /><sub>Toronto</sub><br /><sub>sahandafarahani@yahoo.com</sub><br /><sub>Cheapreats</sub><br /><sub>repos:200</sub><br /><sub>Contributions:300</sub><br />
-    </td><td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;"/><br /><sub><b>SahandFarahani</b></sub></a> <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="15px;"/><br /><sub>Toronto</sub><br /><sub>sahandafarahani@yahoo.com</sub><br /><sub>Cheapreats</sub><br /><sub>repos:200</sub><br /><sub>Contributions:300</sub><br />
-    </td><td>blah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blahblah blah blah blah</td>
-  </tr>
-  </table>
+  * [envirius](#envirius)
+    * [Idea](#idea)
+    * [Features](#features)
+  * [Installation](#installation)
+  * [Uninstallation](#uninstallation)
+  * [Available plugins](#available-plugins)
+  * [Usage](#usage)
+    * [Check available plugins](#check-available-plugins)
+    * [Check available versions for each plugin](#check-available-versions-for-each-plugin)
+    * [Create an environment](#create-an-environment)
+    * [Activate/deactivate environment](#activatedeactivate-environment)
+      * [Activating in a new shell](#activating-in-a-new-shell)
+      * [Activating in the same shell](#activating-in-the-same-shell)
+    * [Get list of environments](#get-list-of-environments)
+    * [Get current activated environment](#get-current-activated-environment)
+    * [Do something in environment without enabling it](#do-something-in-environment-without-enabling-it)
+    * [Get help](#get-help)
+    * [Get help for a command](#get-help-for-a-command)
+  * [How to add a plugin?](#how-to-add-a-plugin)
+    * [Mandatory elements](#mandatory-elements)
+      * [plug_list_versions](#plug_list_versions)
+      * [plug_url_for_download](#plug_url_for_download)
+      * [plug_build](#plug_build)
+    * [Optional elements](#optional-elements)
+      * [Variables](#variables)
+      * [Functions](#functions)
+    * [Examples](#examples)
+  * [Example of the usage](#example-of-the-usage)
+  * [Dependencies](#dependencies)
+  * [Supported OS](#supported-os)
+  * [Tests](#tests)
+  * [Version History](#version-history)
+  * [License](#license)
+  * [README in another language](#readme-in-another-language)
+
   
 <table>
   <tr>
