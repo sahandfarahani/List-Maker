@@ -7,7 +7,7 @@
     "AuthorConfigs": {
                       "AuthorInfo":{
                         "WithPicture":false,
-                        "WithContributions":,
+                        "WithContributions":true,
                         "WithName":rr
                       }
                       "onlyOwner":true
