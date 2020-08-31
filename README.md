@@ -3,24 +3,25 @@
 Table of Contents
 =================
 
+
 # Table Of Contents
- * [Description](#Description)
-  * [Architecture](#Architecture)
+   * [Description](#Description)
 
-		 * [How it Works](#How it Works)
+   * [Architecture](#Architecture)
 
-			 * [WHY](#WHY)
+   * [How it Works](#How it Works)
 
-				 * [Major Issues](#Major Issues)
+    * [WHY](#WHY)
 
-				 * [Minor Issues](#Minor Issues)
+     * [Major Issues](#Major Issues)
 
-	 * [Technologies](#Technologies)
+     * [Minor Issues](#Minor Issues)
 
-	 * [Config Values](#Config Values)
+  * [Technologies](#Technologies)
 
-		 * [Example Output](#Example Output)
+  * [Config Values](#Config Values)
 
+   * [Example Output](#Example Output)
 
 
    * [LINK](#List-Maker)
