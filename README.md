@@ -8,7 +8,7 @@ Table of Contents
    * [Description](#Description)
    * [Architecture](#Architecture)
    * [How it Works](#How it Works)
-    * [WHY](#WHY)
+     * [WHY](#WHY)
      * [Major Issues](#Major Issues)
      * [Minor Issues](#Minor Issues)
   * [Technologies](#Technologies)
