@@ -4,32 +4,23 @@ Table of Contents
 =================
 
 # Table Of Contents
-
-		 * [Description](#Description)
-
-
-		 * [Architecture](#Architecture)
-
+ * [Description](#Description)
+  * [Architecture](#Architecture)
 
 		 * [How it Works](#How it Works)
 
-
 			 * [WHY](#WHY)
-
 
 				 * [Major Issues](#Major Issues)
 
-
 				 * [Minor Issues](#Minor Issues)
-
 
 	 * [Technologies](#Technologies)
 
-
 	 * [Config Values](#Config Values)
 
-
 		 * [Example Output](#Example Output)
+
 
 
    * [LINK](#List-Maker)
