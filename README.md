@@ -13,8 +13,8 @@ Table of Contents
 ##### FF
 ###### G
 
-  * [LINK](#List-Maker)
-    * [d](##d)
+   * [LINK](#List-Maker)
+     * [d](##d)
    *
   * [envirius](#envirius)
     * [Idea](#idea)
