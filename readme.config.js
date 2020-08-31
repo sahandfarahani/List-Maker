@@ -12,5 +12,5 @@
                       }
                       "onlyOwner":true
     }
-    "withTableOfContent":false,
+    "WithTableOfContent":false,
   }
