@@ -5,17 +5,16 @@ Table of Contents
 
 
 # Table Of Contents
-  * [Automatic Project Structures for README's](#Automatic-Project-Structures-for-README's)
-   * [Description](#Description)
-   * [Architecture](#Architecture)
-   * [How it Works](#How-it-Works)
-    * [WHY](#WHY)
-     * [Major Issues](#Major-Issues)
-     * [Minor Issues](#Minor-Issues)
-  * [Technologies](#Technologies)
-  * [Config Values](#Config-Values)
-   * [Example Output](#Example-Output)
-
+   * [Automatic Project Structures for README's](#Automatic-Project-Structures-for-README's)
+     * [Description](#Description)
+     * [Architecture](#Architecture)
+     * [How it Works](#How-it-Works)
+       * [WHY](#WHY)
+         * [Major Issues](#Major-Issues)
+         * [Minor Issues](#Minor-Issues)
+   * [Technologies](#Technologies)
+   * [Config Values](#Config-Values)
+     * [Example Output](#Example-Output)
    * [LINK](#List-Maker)
      * [d](##d)
    *
