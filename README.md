@@ -169,6 +169,8 @@ Table of Contents
   </tr>
 </table>
   
+   <td align="center"><a href="https://paulovich.net"><img src="https://avatars3.githubusercontent.com/u/7133698?v=4" width="100px;" alt=""/><br /><sub><b>Login Name</b></sub></a><br />Email<br />Location<br />Contributaions: 12<br />repos: 3<br /><a href="https://github.com/all-contributors/all-contributors/commits?author=ivanpaulovich" title="Documentation">Twitter</a></td>
+   
 <table>
   <tr>
     <th>Name</th>
