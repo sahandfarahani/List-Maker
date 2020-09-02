@@ -1,5 +1,5 @@
   { 
-    "Filter":"RODDY",
+    "Filter":"ROOT_ONLY",
     "CollapsibleFolder":falase,
     "APPLICATION_NAME":"My APP",
     "IOSStoreLink":"http://google.com",
