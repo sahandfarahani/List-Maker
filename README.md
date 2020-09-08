@@ -21,15 +21,8 @@ Table of Contents
     <td>Sets up Windows Computers for Android App Development</td>
   </tr>
   <tr>
-
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/58839234?v=3" width="100px;" alt=""/></td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>pod:install</td>
+    <td>Sets up IOS Pods</td>
   </tr>
 </table>
 
