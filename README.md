@@ -2,6 +2,7 @@
 @Pre{ NEW COMMENT }
 Table of Contents
 =================
+<table><tr><th>Command</th><th>Description</th></tr><tr><td>setup:macbook</td><td>Sets up Macbook Computers for IOS App Development</td></tr><tr><td>setup:macbook:test</td><td>Sets up Macbook Computers for IOS App Test Development - *Testing only works on Macs*</td></tr><tr><td>setup:windows</td><td>Sets up Windows Computers for Android App Development</td></tr><tr><td>pod:install</td><td>Sets up IOS Pods</td></tr><tr><td>detox:test</td><td>test_all_files Use npm run detox:test to run all the test files,test_single_file npm run detox:test <file_name> to run a specific test file --- example : npm run detox:test login.spec.ts</td></tr></table>
 
 <table>
   <tr>
