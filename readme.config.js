@@ -13,4 +13,5 @@
                       "onlyOwner":true
     },
     "WithTableOfContent":false,
+      "License":"mit",
   }
