@@ -14,4 +14,5 @@
     },
     "WithTableOfContent":false,
       "License":"mit",
+        "Backers":["https://github.com/Manpreet-Bhatti","https://github.com/sahandfarahani","https://github.com/ralph-dev"],
   }
