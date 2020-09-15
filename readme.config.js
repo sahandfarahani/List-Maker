@@ -14,6 +14,6 @@
     },
     "WithTableOfContent":false,
       "License":"mit",
-        "Backers":["Manpreet-Bhatti","sahandfarahani","ralph-dev"],
+        "Backers":["Manpreet-Bhatti","sahandfarahani","ralph-dev","Manpreet-Bhatti","sahandfarahani","ralph-dev","Manpreet-Bhatti","sahandfarahani","ralph-dev","Manpreet-Bhatti","sahandfarahani","ralph-dev"],
         "Sponsors":["cheapreats"],
   }
