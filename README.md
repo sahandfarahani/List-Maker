@@ -3,10 +3,7 @@
 Table of Contents
 =================
 
-<table><tr><td align=center><a href=https://github.com/Manpreet-Bhatti><img src=https://avatars0.githubusercontent.com/u/13394848?v=4 width=100px;/></a><br /><sub><b>Manpreet-Bhatti</b></sub></a><br /></td><td align=center><a href=https://github.com/sahandfarahani><img src=https://avatars0.githubusercontent.com/u/58839234?v=4 width=100px;/></a><br /><sub><b>sahandfarahani</b></sub></a><br /></td><td align=center><a href=https://github.com/ralph-dev><img src=https://avatars2.githubusercontent.com/u/7469722?v=4 width=100px;/></a><br /><sub><b>ralph-dev</b></sub></a><br /></td></table>
-
-<table><tr><th>Command</th><th>Description</th></tr><tr><td>setup:macbook</td><td>Sets up Macbook Computers for IOS App Development</td></tr><tr><td>setup:macbook:test</td><td>Sets up Macbook Computers for IOS App Test Development - *Testing only works on Macs*</td></tr><tr><td>setup:windows</td><td>Sets up Windows Computers for Android App Development</td></tr><tr><td>pod:install</td><td>Sets up IOS Pods</td></tr><tr><td>detox:test</td><td>test_all_files Use npm run detox:test to run all the test files,test_single_file npm run detox:test <file_name> to run a specific test file --- example : npm run detox:test login.spec.ts</td></tr></table>
-
+<table><tr><td align=center><a href=https://github.com/Manpreet-Bhatti><img src=https://avatars0.githubusercontent.com/u/13394848?v=4 width=100px;/></a><br /><sub><b>Manpreet-Bhatti</b></sub></a><br /></td><td align=center><a href=https://github.com/sahandfarahani><img src=https://avatars0.githubusercontent.com/u/58839234?v=4 width=100px;/></a><br /><sub><b>sahandfarahani</b></sub></a><br /></td><td align=center><a href=https://github.com/ralph-dev><img src=https://avatars2.githubusercontent.com/u/7469722?v=4 width=100px;/></a><br /><sub><b>ralph-dev</b></sub></a><br /></td><td align=center><a href=https://github.com/cheapreats><img src=https://avatars0.githubusercontent.com/u/19055535?v=4 width=100px;/></a><br /><sub><b>cheapreats</b></sub></a><br /></td></table>
 
 <table>
   <tr>
